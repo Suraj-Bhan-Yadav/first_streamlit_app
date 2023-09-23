@@ -1,4 +1,3 @@
 # requirements.txt
-import streamlit==1.25.0
 snowflake-connecter-python
 
